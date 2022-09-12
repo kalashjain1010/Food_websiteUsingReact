@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kalashjain1010.github.io/Food_websiteUsingReact/static/css/main.17655c3c.css",
+    "main.js": "/kalashjain1010.github.io/Food_websiteUsingReact/static/js/main.951dcda5.js",
+    "index.html": "/kalashjain1010.github.io/Food_websiteUsingReact/index.html",
+    "main.17655c3c.css.map": "/kalashjain1010.github.io/Food_websiteUsingReact/static/css/main.17655c3c.css.map",
+    "main.951dcda5.js.map": "/kalashjain1010.github.io/Food_websiteUsingReact/static/js/main.951dcda5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.951dcda5.js"
+  ]
+}
